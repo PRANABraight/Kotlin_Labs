@@ -44,7 +44,7 @@ Located in [`2_Lab/`](2_Lab/), this project implements a calculator application 
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Kotlin_Labs.git
+   git clone https://github.com/PRANABraight/Kotlin_Labs.git
    ```
 2. Open the project in Android Studio
 3. Sync project with Gradle files
