@@ -1,4 +1,3 @@
-
 # Kotlin Labs
 
 This repository contains my university laboratory exercises for Android Development using Kotlin, along with additional self-learning components.
@@ -21,14 +20,44 @@ Located in [`2_Lab/`](2_Lab/), this project implements a calculator application 
 - Error handling with Snackbar
 - Custom theme and styling
 
+### Lab 3: Currency Converter App
+Located in [`3_Lab/`](3_Lab/), this project implements a currency converter featuring:
+- Material 3 Design components
+- Currency conversion logic
+- Custom dropdown menus
+- Interactive UI with real-time updates
+- Snackbar notifications
+
+### Lab 4: Navigation Demo App
+Located in [`4_Lab/`](4_Lab/), this project showcases:
+- Basic Navigation
+- Navigation with Arguments
+- Bottom Navigation implementation
+- Multi-screen navigation
+- Custom navigation components
+- Material 3 navigation elements
+- Screen state management
+
+### Lab 5: Grid Layout App
+Located in [`5_Lab/`](5_Lab/), this project demonstrates:
+- LazyColumn implementation
+- LazyRow implementation
+- LazyVerticalGrid implementation
+- Custom grid layouts
+- Material Icons integration
+- Responsive design patterns
+- List item customization
 
 ## Technologies Used
-- Kotlin 1.8.x
-- Jetpack Compose 1.4.x
-- Android SDK (min SDK 27, target SDK 33)
+- Kotlin 1.9.x
+- Jetpack Compose 1.5.x
+- Android SDK (min SDK 27, target SDK 34)
 - Gradle 8.x
 - Material Design 3
-- Android Studio Flamingo or later
+- Navigation Component
+- Android Studio Hedgehog or later
+- Kotlin Coroutines
+- State Management
 
 ## Prerequisites
 - JDK 11 or later
